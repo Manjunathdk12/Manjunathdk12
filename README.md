@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/abstract-facebook-cover-with-squares_23-2147663226.jpg?t=st=1738527186~exp=1738530786~hmac=f82b7ac683a6e5ca19c5ff4ead4ba7df761b8c9a3107e50ea8853ef2b3bef6a3&w=740)]
+
 <h1 align="center">Hi 👋, I'm Manjunath DK</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img   align="right" alt="coding" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif"/>k Developer from India</h3>
